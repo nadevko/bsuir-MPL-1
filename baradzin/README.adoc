@@ -1,0 +1,6 @@
+= bsuir MPL labs
+
+* link:01/README.adoc[1]
+* link:02/README.adoc[2]
+* link:03/README.adoc[3]
+* link:04/README.adoc[4]
