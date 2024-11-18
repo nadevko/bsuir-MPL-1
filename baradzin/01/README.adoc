@@ -1,0 +1,6 @@
+= Lab 1
+
+Use kotlin language and write JUnit 5 tests.
+
+image::classes.png[Diagram of classes]
+image::sequence.png[Sequence diagram]
